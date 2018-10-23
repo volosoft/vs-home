@@ -14,7 +14,7 @@ We are leading community-driven open source projects. We love to develop reusabl
 
 ### GitHub Organizations
 
-We are developing open source and commercial projects. 
+We are developing open source and commercial projects. Here, a list of GitHub organizations owned:
 
 * [github.com/abpframework](https://github.com/abpframework/abp)
 * [github.com/aspnetboilerplate](https://github.com/aspnetboilerplate/)
