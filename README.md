@@ -20,3 +20,7 @@ We are developing open source and commercial projects. Here, a list of GitHub or
 * [github.com/aspnetboilerplate](https://github.com/aspnetboilerplate/)
 * [github.com/aspnetzero](https://github.com/aspnetzero)
 * [github.com/volosoft](https://github.com/volosoft)
+
+### Do you need a front-end developer?
+
+Check [this](https://yadi.sk/i/9s-aQqu3nenLlw)!
