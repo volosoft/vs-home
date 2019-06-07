@@ -16,7 +16,7 @@ We are leading community-driven open source projects. We love to develop reusabl
 
 We are developing open source and commercial projects. Here, a list of GitHub organizations owned:
 
-* [github.com/abpframework](https://github.com/abpframework/abp)
-* [github.com/aspnetboilerplate](https://github.com/aspnetboilerplate/)
-* [github.com/aspnetzero](https://github.com/aspnetzero)
-* [github.com/volosoft](https://github.com/volosoft)
+* [abpframework](https://github.com/abpframework/)
+* [aspnetboilerplate](https://github.com/aspnetboilerplate/)
+* [aspnetzero](https://github.com/aspnetzero/)
+* [volosoft](https://github.com/volosoft/)
