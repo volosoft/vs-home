@@ -21,3 +21,7 @@ We are developing open source and commercial projects. Here, a list of GitHub or
 * [aspnetzero](https://github.com/aspnetzero/)
 * [volosoft](https://github.com/volosoft/)
 * [abpio](https://github.com/abpio)
+
+### Open Job Positions
+
+See https://github.com/volosoft/vs-home/issues?q=is%3Aissue+is%3Aopen+label%3Ajob
