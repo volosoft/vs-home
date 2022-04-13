@@ -6,10 +6,11 @@ We are leading community-driven open source projects. We love to develop reusabl
 
 * Official web site: [volosoft.com](https://volosoft.com/)
 * GitHub: [volosoft](https://github.com/volosoft/)
-* Medium: [volosoft](https://medium.com/volosoft)
 * Twitter: [volosoftcompany](https://twitter.com/volosoftcompany)
+* Linkedin: [volosoft](https://www.linkedin.com/company/volosoft/)
+* Medium: [volosoft](https://medium.com/volosoft)
 * Instagram: [volosoftcompany](https://www.instagram.com/volosoftcompany/)
-* Facebook: [volosoft](https://www.linkedin.com/company/volosoft/)
+* Facebook: [volosoftcompany](https://www.facebook.com/volosoftcompany/)
 * Email: info@volosoft.com
 
 ### GitHub Organizations
