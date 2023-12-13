@@ -1,28 +1,32 @@
 ## Volosoft
 
-We are leading community-driven open source projects. We love to develop reusable software libraries/frameworks/tools, distributed architectures/systems, multi-threaded and real-time applications.
+We are leading community-driven open-source projects. 
+We love to develop reusable software tools & libraries & frameworks. 
+We mostly work on distributed systems, multi-threaded architectures and real-time applications.
+
 
 ### Links
 
-* Official web site: [volosoft.com](https://volosoft.com/)
-* GitHub: [volosoft](https://github.com/volosoft/)
-* Twitter: [volosoftcompany](https://twitter.com/volosoftcompany)
-* Linkedin: [volosoft](https://www.linkedin.com/company/volosoft/)
-* Medium: [volosoft](https://medium.com/volosoft)
-* Instagram: [volosoftcompany](https://www.instagram.com/volosoftcompany/)
-* Facebook: [volosoftcompany](https://www.facebook.com/volosoftcompany/)
-* Email: info@volosoft.com
+- 🔗 Official website 👉 [volosoft.com](https://volosoft.com/)
+- 🔗 GitHub 👉 [github.com/volosoft](https://github.com/volosoft/)
+- 🔗 Twitter 👉 [x.com/volosoftcompany](https://x.com/volosoftcompany)
+- 🔗 LinkedIn 👉 [linkedin.com/company/volosoft](https://www.linkedin.com/company/volosoft/)
+- 🔗 Medium 👉 [medium.com/volosoft](https://medium.com/volosoft)
+- 🔗 Instagram 👉 [instagram.com/volosoftcompany](https://www.instagram.com/volosoftcompany/)
+- 🔗 Facebook 👉 [facebook.com/volosoftcompany](https://www.facebook.com/volosoftcompany/)
+- 🔗 Email 👉 [info@volosoft.com](mailto:info@volosoft.com)
 
 ### GitHub Organizations
 
-We are developing open source and commercial projects. Here, a list of GitHub organizations owned:
+We are developing open-source and commercial projects.
+See our GitHub organizations;
 
-* [abpframework](https://github.com/abpframework/)
-* [aspnetboilerplate](https://github.com/aspnetboilerplate/)
-* [aspnetzero](https://github.com/aspnetzero/)
-* [volosoft](https://github.com/volosoft/)
-* [abpio](https://github.com/abpio)
+- 📌 [ABP Framework](https://github.com/abpframework/)
+- 📌 [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/)
+- 📌 [ASP.NET Zero](https://github.com/aspnetzero/)
+- 📌 [Volosoft](https://github.com/volosoft/)
+- 📌 [ABP.io](https://github.com/abpio)
 
 ### Open Job Positions
 
-See https://github.com/volosoft/vs-home/issues?q=is%3Aissue+is%3Aopen+label%3Ajob
+💼 Visit our [career page](https://volosoft.com/Career).
