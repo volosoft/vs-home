@@ -29,4 +29,4 @@ See our GitHub organizations;
 
 ### Open Job Positions
 
-💼 Visit our [career page](https://volosoft.com/Career).
+- 💼 Visit our [career page](https://volosoft.com/Career).
